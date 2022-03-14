@@ -1,2 +1,6 @@
-# Cab-Application
-This Application allows user to book rides and shows the amount they are charged.
+# CAB Application using Java
+
+Driver class contains demo testcases - Requires user input to be entered in console whenever prompted.
+
+
+
